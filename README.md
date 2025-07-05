@@ -66,9 +66,9 @@ Model KNN dengan **k=3** menunjukkan performa yang **sempurna** pada data uji.
 - **ROC-AUC**: 100.00%
 
 **Confusion Matrix:**
-| 91  0 |
-| :-----|
-| 0  12 |
+| 91 | 0 |
+| :---| :---|
+| 0 | 12 |
 
 Matriks ini menunjukkan bahwa dari 103 data uji, model berhasil memprediksi semua kelas dengan benar tanpa ada kesalahan (baik *False Positive* maupun *False Negative*).
 
